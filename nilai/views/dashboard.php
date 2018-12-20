@@ -434,7 +434,7 @@
           </label>
 
           <p>
-            Other sets of options are available
+            Other sets of options are
           </p>
         </div>
         <!-- /.form-group -->
@@ -529,7 +529,7 @@
 <script>
   $(function () {
     $("#example1").DataTable();
-    $('#example2').DataTable({   //untuk mengatur datatables agar bagus
+    $('#example2').DataTable({   //untuk mengatur datatables agar bagus sekaliiiii nnn
       "paging": true,
       "lengthChange": false,
       "searching": false,
@@ -540,3 +540,5 @@
   });
 </script>
 </html>
+
+<!--- test -->
