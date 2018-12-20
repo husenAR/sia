@@ -529,7 +529,7 @@
 <script>
   $(function () {
     $("#example1").DataTable();
-    $('#example2').DataTable({   //untuk mengatur datatables agar bagus sekaliiiii nnn
+    $('#example2').DataTable({   //untuk mengatur datatables agar bagus banget
       "paging": true,
       "lengthChange": false,
       "searching": false,
